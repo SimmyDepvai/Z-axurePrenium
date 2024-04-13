@@ -34,7 +34,7 @@ do
     end
     end
     end
-    _G.Color = Color3.fromRGB(178, 102, 255)
+    _G.Color = Color3.fromRGB(189, 211, 255)
     function CircleClick(Button, X, Y)
     coroutine.resume(
       coroutine.create(
@@ -45,7 +45,7 @@ do
         Circle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
         Circle.BackgroundTransparency = 1.000
         Circle.ZIndex = 10
-        Circle.Image = "rbxassetid://14346331443"
+        Circle.Image = "rbxassetid://16850211725"
         Circle.ImageColor3 = Color3.fromRGB(255, 255, 255)
         Circle.ImageTransparency = 0.7
         Circle.Visible = false
